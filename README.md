@@ -20,3 +20,5 @@ A fun little Magic 8 Ball desktop app built with HTML, CSS, JavaScript, and Elec
 ```bash
 git clone https://github.com/MvbAngel/magic8ball.git
 cd magic8ball
+npm install
+npm start
