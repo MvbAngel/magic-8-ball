@@ -1,10 +1,10 @@
-# 🔮 Magic 8 Ball – Desktop App
+# 🔮 Magic 8 Ball 
 
 A fun little Magic 8 Ball desktop app built with HTML, CSS, JavaScript, and Electron. Shake the ball with your mouse and reveal your fortune.
 
 ---
 
-## 🧠 Features
+## Features
 
 - Interactive Magic 8 Ball UI
 - Mouse shake detection
@@ -13,7 +13,7 @@ A fun little Magic 8 Ball desktop app built with HTML, CSS, JavaScript, and Elec
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
